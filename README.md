@@ -36,6 +36,9 @@ Performance Townhall
 
 The landing page is accessible at [datazen.tech](http://datazen.tech/).
 
+Notes
+- facebook chatbot is not live now. you can link it to your own facebook chatbot to try it.
+- the project was initially made for HackData event and the whole project was uploaded here on october 14,2017
 
 
 
